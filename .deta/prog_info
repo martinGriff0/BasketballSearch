@@ -1,0 +1,1 @@
+{"id":"a882cc9c-847e-438d-80eb-2c79a256e96b","space":20435,"runtime":"python3.9","name":"FastAPI_-_Copy","path":"19rdre","project":"b01kr54r","account":"144798365827","region":"us-east-1","deps":["fastapi","pydantic","sqlalchemy","mangum","pymysql"],"envs":null,"public":true,"log_level":"debug","cron":""}
